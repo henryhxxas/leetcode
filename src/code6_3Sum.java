@@ -8,7 +8,7 @@ import java.util.List;
  * @Description: TODO
  * @Version: 1.0
  */
-public class code5_3Sum {
+public class code6_3Sum {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
         List<List<Integer>> res = new ArrayList<>();
