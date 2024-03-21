@@ -4,7 +4,7 @@
  * @Description: TODO
  * @Version: 1.0
  */
-public class code19_Rotate_Image {
+public class code20_Rotate_Image {
     //先对角线互换位置，再竖着对半翻转
     public void rotate(int[][] matrix) {
         int n=matrix.length;

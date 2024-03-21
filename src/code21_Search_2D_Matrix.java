@@ -4,7 +4,7 @@
  * @Description: TODO
  * @Version: 1.0
  */
-public class code20_Search_2D_Matrix {
+public class code21_Search_2D_Matrix {
     public boolean searchMatrix(int[][] matrix, int target) {
         for(int i=matrix.length-1;i>=0;i--){
             if(matrix[i][0]>target){

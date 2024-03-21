@@ -4,7 +4,7 @@
  * @Description: TODO
  * @Version: 1.0
  */
-public class code22_Reverse_Linked_List {
+public class code23_Reverse_Linked_List {
     public ListNode reverseList(ListNode head) {
         ListNode cur=head;
         ListNode pre=null;

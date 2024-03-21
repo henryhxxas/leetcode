@@ -16,7 +16,7 @@
  * }
  */
 
-public class code21_Intersection_of_Two_Linked_Lists {
+public class code22_Intersection_of_Two_Linked_Lists {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         if(headA==null||headB==null) return null;
         ListNode pA=headA,pB=headB;
