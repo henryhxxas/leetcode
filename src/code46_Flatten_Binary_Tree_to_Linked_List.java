@@ -7,7 +7,7 @@ import java.util.List;
  * @Description: TODO
  * @Version: 1.0
  */
-public class code51_Flatten_Binary_Tree_to_Linked_List {
+public class code46_Flatten_Binary_Tree_to_Linked_List {
     public void flatten(TreeNode root) {
         List<TreeNode> list=new ArrayList<>();
         preorderTraversal(root,list);

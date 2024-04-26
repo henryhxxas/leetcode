@@ -9,7 +9,7 @@ import java.util.List;
  * @Description: TODO
  * @Version: 1.0
  */
-public class code50_Binary_Tree_Right_Side_View {
+public class code45_Binary_Tree_Right_Side_View {
     public List<Integer> rightSideView(TreeNode root) {
         Deque<TreeNode> deque=new LinkedList<>();
         List<Integer> list=new ArrayList<>();
